@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2_open.PNG</file>
+        <file>2_openYok.png</file>
+        <file>arritmia2.PNG</file>
+        <file>arritmia2Y.PNG</file>
+        <file>guardar1.PNG</file>
+        <file>pieB.PNG</file>
+        <file>pieY.PNG</file>
+        <file>TipoB.PNG</file>
+        <file>dicrB.PNG</file>
+        <file>dicrotyellow.PNG</file>
+        <file>ecgB.PNG</file>
+        <file>ecgY.PNG</file>
+        <file>guardar1Y.PNG</file>
+        <file>picoP2b.PNG</file>
+        <file>picoP2y.PNG</file>
+        <file>TipoY.PNG</file>
+        <file>FC22.PNG</file>
+        <file>med.PNG</file>
+    </qresource>
+</RCC>
